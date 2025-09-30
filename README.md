@@ -8,6 +8,12 @@ Sou um Desenvolvedor Full Stack com foco em soluções escaláveis e APIs robust
 - Docker, Git, GitHub Actions
 - DDD, Clean Architecture, SOLID e TDD
 
+- ## 🎓 Formação Acadêmica
+
+📚 Analista de Sistemas  
+🎓 Centro Universitário Cidade Verde (Unicv)  
+📅 2022 – 2025
+
 🛠️ Projetos em destaque:
 - [OrMenu](https://ormenu.com.br) - sistema completo de delivery integrado com WhatsApp API e Google Maps
 - API Tributária - para atualização de NCM conforme a SEFAZ
