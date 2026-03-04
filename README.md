@@ -46,7 +46,7 @@ Features:
 - Sales reports
 
 Tech:
-Python • API Integration • Docker
+Php • API Integration • Docker
 
 ---
 
